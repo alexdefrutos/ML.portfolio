@@ -8,7 +8,7 @@ _Note: Data used in the projects (accessed under data directory) is for demonstr
 
 - ### Natural Language Processing:
 
-    - [ULMFiT Sentiment](https://www.kaggle.com/crowdflower/twitter-airline-sentiment): Apply a supervised or semi-supervised ULMFiT model to Twitter US Airlines Sentiment to classify tweets into 3 categories (positive, negative, neutral)
+    - [ULMFiT Sentiment](https://github.com/alexdefrutos/ML.portfolio/blob/master/Tweet_sentiment_classification.ipynb): Apply a supervised or semi-supervised ULMFiT model to Twitter US Airlines Sentiment to classify tweets into 3 categories (positive, negative, neutral)
 
 - ### Image classification:
 

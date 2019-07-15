@@ -15,7 +15,7 @@ _Note: Data used in the projects (accessed under data directory) is for demonstr
     - [Food Classiﬁcation Using Convolutional Neural Network](https://github.com/alexdefrutos/ML.portfolio/blob/master/FOOD_101-AlexdeFrutos.ipynb): Accuracy of 83.97% for the classes of the FOOD-101
 dataset applying transfer learning to the ResNet50 network.
 
-    - [MNist digit recognizer](https://www.kaggle.com/c/digit-recognizer/overview) : Accuracy 99.41% 
+    - [MNist digit recognizer](https://github.com/alexdefrutos/ML.portfolio/blob/master/MNIST.ipynb) : Accuracy 99.41% 
 
 
 - ### Audio:

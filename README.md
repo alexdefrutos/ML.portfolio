@@ -18,6 +18,10 @@ dataset applying transfer learning to the ResNet50 network.
     - [MNist digit recognizer](https://www.kaggle.com/c/digit-recognizer/overview) : Accuracy 99.41% 
 
 
-- ### Sound Classification:
+- ### Audio:
 
-    - Classifying instrument sounds using 2 different architectures ( Multi-layer Perceptrons and Convolutional Neural Networks )
+    - Audio Classification: Classifying instrument sounds using 2 different architectures ( Multi-layer Perceptrons and Convolutional Neural Networks )
+    - Audio Generation - P(IA)NO - : Generate Chopin-based Music using a LSTM Networks
+    
+   
+   

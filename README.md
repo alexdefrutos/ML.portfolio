@@ -21,7 +21,7 @@ dataset applying transfer learning to the ResNet50 network.
 - ### Audio:
 
     - Audio Classification: Classifying instrument sounds using 2 different architectures ( Multi-layer Perceptrons and Convolutional Neural Networks )
-    - Audio Generation - P(IA)NO - : Generate Chopin-based Music using a LSTM Network.
+    - [Audio Generation - P(IA)NO - :](https://soundcloud.com/user-432756748-371322567/haydn_600_a) Generate Haydn-based Music using a LSTM Network.
 
     
    

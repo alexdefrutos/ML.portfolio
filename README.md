@@ -25,7 +25,7 @@ dataset applying transfer learning to the ResNet50 network.
 
 
 - ### Deep Learning Web App:
-     -  [Furniture classification with Deep Learning:]( https://adefrutos-aikea.onrender.com/)
+     -  [Furniture classification with Deep Learning]( https://adefrutos-aikea.onrender.com/)
     
    
    

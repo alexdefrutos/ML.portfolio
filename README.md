@@ -24,7 +24,7 @@ dataset applying transfer learning to the ResNet50 network.
 
 - ### Fraud Detection:
 
-    - [Credit Card Fraud Detection] ( https://github.com/alexdefrutos/ML.portfolio/blob/master/Fraud_detection_AdeFrutos.ipynb )
+    - [Credit Card Fraud Detection](https://github.com/alexdefrutos/ML.portfolio/blob/master/Fraud_detection_AdeFrutos.ipynb)
 
 
 - ### Deep Learning Web App:

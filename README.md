@@ -15,13 +15,16 @@ _Note: Data used in the projects is for demonstration purposes only._
     - [Food Classiﬁcation Using Convolutional Neural Network](https://github.com/alexdefrutos/ML.portfolio/blob/master/FOOD_101-AlexdeFrutos.ipynb): Accuracy of 83.97% for the classes of the FOOD-101
 dataset applying transfer learning to the ResNet50 network.
 
-    - [MNist digit recognizer](https://github.com/alexdefrutos/ML.portfolio/blob/master/MNIST.ipynb) : Accuracy 99.41% 
-
+    - [Building Damage classification](https://docs.google.com/presentation/d/1nxDjiOp3YMBtD3eOwebvOJTYeYA7qPPlAXpzt5qYMbM/edit?usp=sharing):
 
 - ### Audio:
 
     - Audio Classification: Classifying instrument sounds using 2 different architectures ( Multi-layer Perceptrons and Convolutional Neural Networks )
     - [Audio Generation - P(IA)NO - :](https://soundcloud.com/user-432756748-371322567/haydn_600_a) Generate Haydn-based Music using a LSTM Network.
+
+- ### Fraud Detection:
+
+    - [Credit Card Fraud Detection] ( https://github.com/alexdefrutos/ML.portfolio/blob/master/Fraud_detection_AdeFrutos.ipynb )
 
 
 - ### Deep Learning Web App:

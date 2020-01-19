@@ -24,7 +24,7 @@ dataset applying transfer learning to the ResNet50 network.
     - [Audio Generation - P(IA)NO - :](https://soundcloud.com/user-432756748-371322567/haydn_600_a) Generate Haydn-based Music using a LSTM Network.
 
 
-- ### Deep Learning Web App:
+- ### Deep Learning Web App (Suspended):
      -  [Furniture classification with Deep Learning]( https://adefrutos-aikea.onrender.com/)
     
    
